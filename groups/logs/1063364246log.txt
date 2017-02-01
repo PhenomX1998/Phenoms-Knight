@@ -1,0 +1,40 @@
+[ Tue Jan 31 15:21:01 2017 ]=>  Aditya Jio [89932283] added SuperGroup
+ 
+[ Tue Jan 31 15:22:58 2017 ]=>  Akhil Narang [92027269] requested group modlist
+ 
+[ Tue Jan 31 15:23:32 2017 ]=>  Akhil Narang [92027269] requested group modlist
+ 
+[ Tue Jan 31 15:26:20 2017 ]=>  Aditya Jio [89932283] promoted @phenomx1998
+ 
+[ Tue Jan 31 15:26:29 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Tue Jan 31 15:28:08 2017 ]=>  Aditya Jio [89932283] promoted @zeeshanhussain12
+ 
+[ Tue Jan 31 15:36:27 2017 ]=>  SagarShah @sagarshah1729 [214044393] kicked for #spam
+ 
+[ Tue Jan 31 15:37:01 2017 ]=>  Aditya Jio [89932283] set flood to [20]
+ 
+[ Tue Jan 31 15:38:10 2017 ]=>  Zeeshan Hussain Admin [89932283] added to the SuperGroup by [ 93497468 ]
+ 
+[ Tue Jan 31 15:38:42 2017 ]=>  Akhil Narang [92027269] requested group modlist
+ 
+[ Tue Jan 31 15:40:25 2017 ]=>  Miradutta [184518835] left via kickme
+ 
+[ Tue Jan 31 15:41:18 2017 ]=>  Akhil Narang [92027269] left via kickme
+ 
+[ Tue Jan 31 17:42:22 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 08:24:13 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 08:24:17 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 08:25:46 2017 ]=>  Zeeshan Hussain [93497468] obtained id for: [231281460]
+ 
+[ Wed Feb  1 08:27:11 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 08:27:14 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 08:27:35 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 08:27:38 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 

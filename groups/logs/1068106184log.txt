@@ -1,0 +1,68 @@
+[ Wed Feb  1 07:03:31 2017 ]=>  Putra A [205349652] added SuperGroup
+ 
+[ Wed Feb  1 07:04:16 2017 ]=>  Putra A Admin [89932283] added to the SuperGroup by [ 205349652 ]
+ 
+[ Wed Feb  1 07:06:29 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: mute All
+ 
+[ Wed Feb  1 07:08:09 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: unmute All
+ 
+[ Wed Feb  1 07:10:14 2017 ]=>  +muzakki @KNGMUZ [289901165] kicked for #spam
+ 
+[ Wed Feb  1 07:11:39 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: mute All
+ 
+[ Wed Feb  1 07:12:48 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: unmute All
+ 
+[ Wed Feb  1 07:14:48 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: mute All
+ 
+[ Wed Feb  1 07:18:26 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:18:26 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:18:27 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:18:55 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: unmute All
+ 
+[ Wed Feb  1 07:22:21 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: mute All
+ 
+[ Wed Feb  1 07:22:32 2017 ]=>  Putra A [205349652] requested SuperGroup ID
+ 
+[ Wed Feb  1 07:23:03 2017 ]=>  Putra A[205349652] set [205349652] as owner by username
+ 
+[ Wed Feb  1 07:23:12 2017 ]=>  Aditya Jio[89932283] set [89932283] as owner by username
+ 
+[ Wed Feb  1 07:23:49 2017 ]=>  Putra A [205349652] obtained id for: [89932283]
+ 
+[ Wed Feb  1 07:23:55 2017 ]=>  Aditya Jio [89932283] obtained id for: [101173119]
+ 
+[ Wed Feb  1 07:25:42 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: unmute All
+ 
+[ Wed Feb  1 07:26:57 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: mute Gifs
+ 
+[ Wed Feb  1 07:27:04 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: mute Photo
+ 
+[ Wed Feb  1 07:29:04 2017 ]=>  Aditya Jio [89932283] locked enabled strict settings
+ 
+[ Wed Feb  1 07:29:40 2017 ]=>  Aditya Jio [89932283] renamed SuperGroup to: send nudes
+ 
+[ Wed Feb  1 07:29:40 2017 ]=>  Phenom's Knight [0] renamed SuperGroup to: send nudes
+ 
+[ Wed Feb  1 07:30:37 2017 ]=>  Aditya Jio [89932283] set SuperGroup to: unmute Photo
+ 
+[ Wed Feb  1 07:31:33 2017 ]=>  Aditya Jio [89932283] started setting new SuperGroup photo
+ 
+[ Wed Feb  1 07:31:43 2017 ]=>  Aditya Jio [89932283] set new SuperGroup photo
+ 
+[ Wed Feb  1 07:34:13 2017 ]=>  Putra A [205349652] renamed SuperGroup to: Kenzo
+ 
+[ Wed Feb  1 07:39:38 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:39:38 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:39:39 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:39:39 2017 ]=>  +muzakki Admin [89932283] added to the SuperGroup by [ 289901165 ]
+ 
+[ Wed Feb  1 07:43:21 2017 ]=>  ­­­­­Abhishek­Aggarwal @warabhishek [158598724] kicked for #spam
+ 
+[ Wed Feb  1 11:51:12 2017 ]=>  Putra A [205349652] obtained id for: [289901165]
+ 

@@ -1,0 +1,18 @@
+[ Tue Jan 31 14:27:19 2017 ]=>  Aditya Jio [89932283] added SuperGroup
+ 
+[ Tue Jan 31 14:27:58 2017 ]=>  Aditya Jio [89932283] set flood to [20]
+ 
+[ Tue Jan 31 14:28:06 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Tue Jan 31 14:28:54 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Tue Jan 31 14:29:00 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Tue Jan 31 14:32:47 2017 ]=>  Ritayan [173749550] requested group modlist
+ 
+[ Tue Jan 31 14:33:37 2017 ]=>  Aditya Jio [89932283] requested SuperGroup mutelist
+ 
+[ Wed Feb  1 06:17:03 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 
+[ Wed Feb  1 09:42:56 2017 ]=>  Aditya Jio [89932283] deleted a message by reply
+ 

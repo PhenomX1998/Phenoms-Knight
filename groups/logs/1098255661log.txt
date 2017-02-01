@@ -1,0 +1,12 @@
+[ Tue Jan 31 13:41:30 2017 ]=>  Aditya Jio [89932283] added SuperGroup
+ 
+[ Tue Jan 31 13:41:35 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Tue Jan 31 13:41:45 2017 ]=>  Adarsh MR Kenzo [97209662] requested SuperGroup ID
+ 
+[ Tue Jan 31 13:48:15 2017 ]=>  Adarsh MR Kenzo [97209662] requested SuperGroup ID
+ 
+[ Tue Jan 31 13:49:29 2017 ]=>  Aditya Jio [89932283] used /owner
+ 
+[ Tue Jan 31 13:51:06 2017 ]=>  HarshShandilya @MSFJarvis [211931420] kicked for #spam
+ 

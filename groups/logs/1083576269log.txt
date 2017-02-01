@@ -1,0 +1,68 @@
+[ Tue Jan 31 15:08:10 2017 ]=>  Aditya Jio [89932283] added SuperGroup
+ 
+[ Tue Jan 31 15:10:26 2017 ]=>  Ra One [270123558] requested SuperGroup ID
+ 
+[ Tue Jan 31 15:48:28 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Tue Jan 31 15:49:36 2017 ]=>  Aditya Jio [89932283] requested SuperGroup mutelist
+ 
+[ Tue Jan 31 15:50:10 2017 ]=>  Rohan [162889325] requested SuperGroup ID
+ 
+[ Tue Jan 31 15:51:21 2017 ]=>  Aditya Jio [89932283] set flood to [20]
+ 
+[ Tue Jan 31 15:53:25 2017 ]=>  Miradutta [184518835] requested SuperGroup ID
+ 
+[ Tue Jan 31 15:53:25 2017 ]=>  Miradutta @Miradutta [184518835] kicked for #spam
+ 
+[ Wed Feb  1 06:14:24 2017 ]=>  Neil Agarwal [89522941] requested SuperGroup ID
+ 
+[ Wed Feb  1 06:14:38 2017 ]=>  Neil Agarwal[89522941] set [89932283] as owner by username
+ 
+[ Wed Feb  1 06:16:11 2017 ]=>  Neil Agarwal [89522941] requested SuperGroup ID
+ 
+[ Wed Feb  1 06:25:23 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 06:25:28 2017 ]=>  Neil Agarwal [89522941] requested SuperGroup ID
+ 
+[ Wed Feb  1 08:06:04 2017 ]=>  Aditya Jio [89932283] added SuperGroup
+ 
+[ Wed Feb  1 08:39:22 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 08:40:28 2017 ]=>  Neil Agarwal [89522941] requested SuperGroup ID
+ 
+[ Wed Feb  1 08:43:53 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 08:46:09 2017 ]=>  Aditya Jio [89932283] set flood to [11]
+ 
+[ Wed Feb  1 08:46:17 2017 ]=>  Aditya Jio [89932283] requested SuperGroup settings 
+ 
+[ Wed Feb  1 08:58:07 2017 ]=>  Rohit Cardinal [13970801] requested SuperGroup Admins list
+ 
+[ Wed Feb  1 09:00:59 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 09:01:05 2017 ]=>  Aditya Jio [89932283] requested SuperGroup Admins list
+ 
+[ Wed Feb  1 09:07:08 2017 ]=>  Aditya Jio [89932283] locked sticker posting
+ 
+[ Wed Feb  1 09:13:18 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 09:14:16 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 09:14:26 2017 ]=>  Aditya Jio [89932283] demoted @crdnl
+ 
+[ Wed Feb  1 09:14:41 2017 ]=>  Aditya Jio [89932283] promoted @adarsh001
+ 
+[ Wed Feb  1 09:16:12 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 09:34:36 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 09:39:27 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 13:45:53 2017 ]=>  Miradutta @Miradutta [184518835] kicked for #spam
+ 
+[ Wed Feb  1 13:46:27 2017 ]=>  Aditya Jio [89932283] unlocked sticker posting
+ 
+[ Wed Feb  1 13:57:53 2017 ]=>  Aditya Jio [89932283] requested SuperGroup ID
+ 
+[ Wed Feb  1 13:58:12 2017 ]=>  Aditya Jio [89932283] requested SuperGroup mutelist
+ 

@@ -1,0 +1,55 @@
+All the things I know about this group
+
+Group Type: 
+SuperGroup
+
+SuperGroup settings:
+Lock links : no
+Lock flood: yes
+Flood sensitivity : 11
+Lock spam: yes
+Lock Arabic: no
+Lock Member: no
+Lock RTL: no
+Lock Tgservice : yes
+Lock sticker: yes
+Public: no
+Strict settings: no
+
+Rules: 
+No rules available.
+
+About: 
+No description available.
+
+Mods: 
+
+List of moderators :
+1 - @(at)Adarsh001 [97209662] 
+
+
+Link: 
+No link
+
+Chat stats:
+
+
+Mutes for: [ID: 1083576269 ]:
+
+Mute Gifs: no
+Mute Photo: no
+Mute Audio: no
+Mute Video: no
+Mute Text: no
+Mute All: no
+Mute Documents: no
+
+
+Muted Users for: [ID: 1083576269 ]:
+
+1 - Miradutta [184518835]
+2 - Group Butler [beta] [261244309]
+
+
+Ban list for: [ID: 1083576269 ]:
+
