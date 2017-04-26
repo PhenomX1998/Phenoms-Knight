@@ -16,6 +16,30 @@ class NewMessage extends Threaded
         $MadelineProto = $this->MadelineProto;
         $uMadelineProto = $MadelineProto->API->uMadelineProto;
         if (array_key_exists('message', $update['update']['message'])) {
+            if (array_key_exists("media", $update['update']['message'])) {
+                switch ($update['update']['message']["media"]["_"]) {
+                case 'messageMediaContact':
+                    try {
+                        $inputPhoneContact = ['_' => 'inputPhoneContact', 'client_id' => $update['update']['message']["media"]['user_id'], 'phone' => $update['update']['message']["media"]['phone_number'], 'first_name' => $update['update']['message']["media"]['first_name'], 'last_name' => $update['update']['message']["media"]['last_name']];
+                        $contacts_ImportedContacts = $uMadelineProto->contacts->importContacts(['contacts' => [$inputPhoneContact], 'replace' => true]);
+                        $fromid = $update['update']['message']['from_id'];
+                        $default = array(
+                            'peer' => $fromid,
+                            'message' => 'Please add me to your contacts now, so that you will be able to add me to groups'
+                        );
+                        $sentMessage = $MadelineProto->
+                                messages->sendMessage(
+                                    $default
+                                );
+                        $default['message'] = getenv('MTPROTO_NUMBER');
+                        $sentMessage = $MadelineProto->
+                                messages->sendMessage(
+                                    $default
+                                );
+                    } catch (Exception $e) {}
+                break;
+                }
+            }
             if ($update['update']['message']['message'] !== '') {
                 $first_char = substr(
                     $update['update']['message']
