@@ -29,7 +29,7 @@ function start_message($update, $MadelineProto)
             'parse_mode' => 'html',
             );
         $botname = getenv('BOT_USERNAME');
-        $default['message'] = "Hi! I'm a bot made for managing supergroups. To use my functionality, you'll need to add me to your group, and my helper $botname must be there as well (as an admin!). To explore my commands, use /help.\n<b>NOTE:</b> Before you can add the bot to your groups, you must send me your vCard. When you do I will send you my number, which you can add to your contacts to allow you to add me to groups.";
+        $default['message'] = "Hi! I'm a bot made for managing supergroups. To use my functionality, you'll need to add me to your group, and my helper $botname must be there as well (as an admin!). To explore my commands, use /help.\n<b>NOTE:</b> Before you can add the bot to your groups, you must send me your vCard. When you do I will send you my number, which you can add to your contacts to allow you to add me to groups. Only the owner may add me, as I must be added as an admin first thing to operate properly";
         if (isset($default['message'])) {
             try {
                 $sentMessage = $MadelineProto->messages->sendMessage(
@@ -53,7 +53,7 @@ function help_message($update, $MadelineProto)
             'peer' => $peer,
             'reply_to_msg_id' => $msg_id,
             'parse_mode' => 'html',
-            'message' => 'You can navigate the help menu to see each command and how it\'s used. All commands can be started with !, /, or #\n<b>NOTE:</b> Before you can add the bot to your groups, you must send me your vCard. When you do I will send you my number, which you can add to your contacts to allow you to add me to groups'
+            'message' => "You can navigate the help menu to see each command and how it's used. All commands can be started with !, /, or #\n<b>NOTE:</b> Before you can add the bot to your groups, you must send me your vCard. When you do I will send you my number, which you can add to your contacts to allow you to add me to groups. Only the owner may add me, as I must be added as an admin first thing to operate properly"
             );
         $file = file_get_contents("start_help.json");
         $startj = json_decode($file, true);
