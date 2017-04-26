@@ -438,7 +438,7 @@ function help_menu_callback($update, $MadelineProto)
     $default = array(
         'peer' => $peer,
         'parse_mode' => 'html',
-        'message' => 'You can navigate the help menu to see each command and how it\'s used. All commands can be started with !, /, or #\n<b>NOTE:</b> Before you can add the bot to your groups, you must send me your vCard. When you do I will send you my number, which you can add to your contacts to allow you to add me to groups'
+        'message' => 'You can navigate the help menu to see each command and how it\'s used. All commands can be started with !, /, or #\n<b>NOTE:</b> Before you can add the bot to your groups, you must send me your vCard. When you do I will send you my number, which you can add to your contacts to allow you to add me to groups. Only the owner may add me, as I must be added as an admin first thing to operate properly'
         );
     $file = file_get_contents("start_help.json");
     $startj = json_decode($file, true);
